@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: satan
+      password: satan
+      host: localhost
+      port: 27017
+      database: satancoding
+      authentication-database: admin
